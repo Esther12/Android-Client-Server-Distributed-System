@@ -1,4 +1,7 @@
 # Android-Client-Server-Process-Management
+https://docs.google.com/document/d/1Dqhsl8mBaC_kw02APLBqE5KbM7Pbk60SYF3gviZf9yM/edit
+
+
 implement a distributed application with a server process accepting multiple client processes to perform a certain task.
 
 
